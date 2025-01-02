@@ -285,4 +285,4 @@ in
 // (mkExtAlias "skipAfterTimestamp.js" skipAfterTimestamp)
 // (mkExtAlias "beautifulLyrics.js" beautifulLyrics)
 // (mkExtAlias "oneko.js" oneko)
-// (mkExtAlias "starRatings.js" starRatings)
+// (mkExtAlias "star-ratings.js" starRatings)
