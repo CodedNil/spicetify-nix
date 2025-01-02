@@ -176,7 +176,7 @@ let
 
   starRatings = {
     src = sources.starRatingsSrc;
-    name = "starRatings.js";
+    name = "star-ratings.js";
   };
 
   sanitizeName =
