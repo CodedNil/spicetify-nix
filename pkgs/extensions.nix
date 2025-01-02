@@ -175,7 +175,7 @@ let
   };
 
   starRatings = {
-    src = sources.starRatingsSrc;
+    src = "${sources.starRatingsSrc}/dist";
     name = "star-ratings.js";
   };
 
@@ -285,4 +285,4 @@ in
 // (mkExtAlias "skipAfterTimestamp.js" skipAfterTimestamp)
 // (mkExtAlias "beautifulLyrics.js" beautifulLyrics)
 // (mkExtAlias "oneko.js" oneko)
-// (mkExtAlias "star-ratings.js" starRatings)
+// (mkExtAlias "starRatings.js" starRatings)
